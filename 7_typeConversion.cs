@@ -19,7 +19,10 @@ namespace typeConversion
             System.Console.WriteLine(y);
 
             // Explicit
-            System.Console.WriteLine(x.ToDouble());
+            System.Console.WriteLine(x.ToString());
+            int z = (int)y;
+            System.Console.WriteLine(z);
+
         }
     }
 }
