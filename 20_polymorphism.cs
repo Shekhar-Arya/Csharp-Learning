@@ -1,4 +1,5 @@
 // Polymorphism meaning is having multiple form;
+// Polymorphism is using of one method or content of the class in diferent class in differnt classes(something like this).
 // two types of polymorphism 
 // 1. Static polymorphism
 // 2. Dynamic polymorphism
