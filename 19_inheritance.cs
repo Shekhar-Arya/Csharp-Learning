@@ -56,6 +56,11 @@ namespace inheritance
     public class GiveCircleValue : circle
     {
         public GiveCircleValue(int r) : base(r){}
+        public new void  Show()
+        {
+            base.Show();
+            System.Console.WriteLine("Hi");
+        }
     }
 
     public class ExecuteAllClass
